@@ -1,0 +1,23 @@
+For each instantiation presented, provided the required constructor declaration.
+
+1) new Car()
+public Car()
+
+2) new Car("Red", 4)
+public Car(String color, int doors)
+3) new Bus(32)
+public Bus(int seats)
+4) new HotDog("Ketchup", "Mustard")
+public HotDOg(String condiment, String condiment2)
+5) new Aroma("Bad")
+public Aroma(String reaction)
+6) new Behavior(true)
+public Behavior(boolean isBehavior)
+7) new Assignment(false)
+public Assignment(boolean isAfterclass)
+8) new AstronomicalDistance(10, 20)
+public AstronomicalDistance(Double distanceAstro)
+9) new DateTime(2016, 07, 22)
+public DateTime(int YYYY, int MM, int DD)
+10) new Assignment("You are done! Go Home!")
+public Assignment(String statement)
