@@ -11,7 +11,7 @@ new SkiLift(4,3.5f,5.5f)
 6) public Gondola(int maxOccupancy)
 new Gondola(6)
 7) public Data(String[] args)
-new Data(args)//? can I put a list of args here?
+new Data(new String[] {"abc","def"})//? can I put a list of args here?
 8) public CelestialObject(Double distanceFromSol)
 new CelestialObject(8888.8888)
 9) public Sun(Double maxSurfaceTemperature)
